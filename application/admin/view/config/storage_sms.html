@@ -1,0 +1,45 @@
+<form onsubmit="return false" data-auto="true" action="{:url()}" method="post" class='layui-form layui-card' autocomplete="off">
+    <div class="layui-card-body">
+        
+    
+        {foreach $codes as $val}
+        <div class="layui-form-item" data-storage-type="qiniu">
+            <label class="layui-form-label">{$val['name']}<br><span class="nowrap color-desc label-required"></span></label>
+            <div class="layui-input-block">
+              
+                <label class="think-radio" style="margin-left: 30px;">
+                    {if $val['status'] == 1}
+                        开 <input checked type="radio" name="{$val['position']}" value="1" lay-ignore>
+                        关 <input type="radio" name="{$val['position']}" value="0" lay-ignore>
+                    {else}
+                        开 <input  type="radio" name="{$val['position']}" value="1" lay-ignore>
+                        关 <input checked type="radio" name="{$val['position']}" value="0" lay-ignore>
+                    {/if}
+                </label>
+               
+            </div>
+        </div>
+        {/foreach}
+        <div class="layui-form-item" data-storage-type="qiniu">
+            <label class="layui-form-label">{$is_manual['name']}<br><span class="nowrap color-desc label-required"></span></label>
+            <div class="layui-input-block">
+              
+                <label class="think-radio" style="margin-left: 30px;">
+                    {if $is_manual['status'] == 0}
+                        开 <input checked type="radio" name="rot_order_index" value="0" lay-ignore>
+                        关 <input type="radio" name="rot_order_index" value="1" lay-ignore>
+                    {else}
+                        开 <input  type="radio" name="rot_order_index" value="0" lay-ignore>
+                        关 <input checked type="radio" name="rot_order_index" value="1" lay-ignore>
+                    {/if}
+                </label>
+               
+            </div>
+        </div>
+        <div class="hr-line-dashed margin-left-40"></div>
+        <div class="layui-form-item text-center padding-left-40">
+            <button class="layui-btn" type="submit">保存配置</button>
+            <button class="layui-btn layui-btn-danger" type='button' data-confirm="确定要取消修改吗？" data-close>取消修改</button>
+        </div>
+    </div>
+</form>

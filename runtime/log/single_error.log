@@ -1,0 +1,176 @@
+---------------------------------------------------------------
+
+[2020-11-13T12:05:48+08:00] 127.0.0.1 GET dz.com/index/user/register
+[ error ] [0]语法解析错误: syntax error, unexpected ']', expecting ',' or ';'[C:\PHP\phpEnv\www\dz\runtime\temp\323e134ba9879ea51387941c617c914d.php:82]
+---------------------------------------------------------------
+
+[2020-11-13T14:43:12+08:00] 127.0.0.1 POST dz.com/index/user/do_register.html
+[ error ] [0]语法解析错误: syntax error, unexpected ']', expecting ')'[C:\PHP\phpEnv\www\dz\application\admin\model\Users.php:44]
+---------------------------------------------------------------
+
+[2020-11-13T14:44:27+08:00] 127.0.0.1 POST dz.com/index/user/do_register.html
+[ error ] [64]Constant expression contains invalid operations[C:\PHP\phpEnv\www\dz\application\admin\model\Users.php:17]
+---------------------------------------------------------------
+
+[2020-11-13T20:25:10+08:00] 127.0.0.1 GET dz.com/index/index/home.html
+[ error ] [0]语法解析错误: syntax error, unexpected ''); ?></span></li><li onclick=' (T_CONSTANT_ENCAPSED_STRING), expecting ')'[C:\PHP\phpEnv\www\dz\runtime\temp\5112dcab6dc5e0c86076becb9708bb64.php:66]
+---------------------------------------------------------------
+
+[2020-11-14T09:48:01+08:00] 127.0.0.1 GET dz.com/index/index/%7B/img/shuadan_dt.png%7D
+[ error ] [0]template not exists:C:\PHP\phpEnv\www\dz\application\index\view\index\{.html[C:\PHP\phpEnv\www\dz\thinkphp\library\think\view\driver\Think.php:86]
+---------------------------------------------------------------
+
+[2020-11-14T10:03:49+08:00] 127.0.0.1 GET dz.com/index/index/home.htmldz.com/index/index/home.html
+[ error ] [0]template not exists:home.htmldz.com[C:\PHP\phpEnv\www\dz\thinkphp\library\think\view\driver\Think.php:86]
+---------------------------------------------------------------
+
+[2020-11-15T19:28:10+08:00] 127.0.0.1 GET dz.com/index/rot_order/index.html?type=1
+[ error ] [8]Undefined variable: vo[C:\PHP\phpEnv\www\dz\runtime\temp\aa690c4eb71e9a18522be78f40da5dd4.php:6]
+---------------------------------------------------------------
+
+[2020-11-15T20:07:50+08:00] 127.0.0.1 GET dz.com/index/rot_order/index.html?type=1
+[ error ] [0]Fatal error: Call to undefined function lamg()[C:\PHP\phpEnv\www\dz\runtime\temp\aa690c4eb71e9a18522be78f40da5dd4.php:16]
+---------------------------------------------------------------
+
+[2020-11-16T10:00:27+08:00] 127.0.0.1 GET www.dz.com/index/order/index.html
+[ error ] [0]Parse error: syntax error, unexpected ''筛选'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'[D:\wed\gongs\fang\dz\application\lang\en-us.php:98]
+---------------------------------------------------------------
+
+[2020-11-16T10:01:45+08:00] 127.0.0.1 GET www.dz.com/index/order/index.html
+[ error ] [0]Parse error: syntax error, unexpected ')', expecting ',' or ';'[D:\wed\gongs\fang\dz\runtime\temp\c837c09cc5ca77f85d699fd94a451eee.php:54]
+---------------------------------------------------------------
+
+[2020-11-16T10:01:56+08:00] 127.0.0.1 GET www.dz.com/index/order/order2
+[ error ] [0]Parse error: syntax error, unexpected ''); ?></span></div><div data-v' (T_CONSTANT_ENCAPSED_STRING), expecting ')'[D:\wed\gongs\fang\dz\runtime\temp\6292dede5f7774db4a565dcaf5b02754.php:54]
+---------------------------------------------------------------
+
+[2020-11-16T10:03:18+08:00] 127.0.0.1 GET www.dz.com/index/order/order2
+[ error ] [0]Parse error: syntax error, unexpected ''); ?></span></div><div data-v' (T_CONSTANT_ENCAPSED_STRING), expecting ')'[D:\wed\gongs\fang\dz\runtime\temp\6292dede5f7774db4a565dcaf5b02754.php:54]
+---------------------------------------------------------------
+
+[2020-11-16T10:05:13+08:00] 127.0.0.1 GET www.dz.com/index/order/order2
+[ error ] [0]Parse error: syntax error, unexpected ''); ?></span></div><div data-v' (T_CONSTANT_ENCAPSED_STRING), expecting ')'[D:\wed\gongs\fang\dz\runtime\temp\6292dede5f7774db4a565dcaf5b02754.php:54]
+---------------------------------------------------------------
+
+[2020-11-16T10:05:21+08:00] 127.0.0.1 GET www.dz.com/index/order/order2
+[ error ] [0]Parse error: syntax error, unexpected ''); ?></span></div><div data-v' (T_CONSTANT_ENCAPSED_STRING), expecting ')'[D:\wed\gongs\fang\dz\runtime\temp\6292dede5f7774db4a565dcaf5b02754.php:54]
+---------------------------------------------------------------
+
+[2020-11-16T10:05:30+08:00] 127.0.0.1 GET www.dz.com/index/order/order2
+[ error ] [0]Parse error: syntax error, unexpected ''); ?></span></div><div data-v' (T_CONSTANT_ENCAPSED_STRING), expecting ')'[D:\wed\gongs\fang\dz\runtime\temp\6292dede5f7774db4a565dcaf5b02754.php:54]
+---------------------------------------------------------------
+
+[2020-11-16T10:05:40+08:00] 127.0.0.1 GET www.dz.com/index/order/order2
+[ error ] [0]Parse error: syntax error, unexpected ''); ?></span></div><div data-v' (T_CONSTANT_ENCAPSED_STRING), expecting ')'[D:\wed\gongs\fang\dz\runtime\temp\6292dede5f7774db4a565dcaf5b02754.php:54]
+---------------------------------------------------------------
+
+[2020-11-16T10:07:07+08:00] 127.0.0.1 GET www.dz.com/index/order/order2
+[ error ] [0]Parse error: syntax error, unexpected ''); ?></span></div><div data-v' (T_CONSTANT_ENCAPSED_STRING), expecting ')'[D:\wed\gongs\fang\dz\runtime\temp\6292dede5f7774db4a565dcaf5b02754.php:54]
+---------------------------------------------------------------
+
+[2020-11-16T10:17:15+08:00] 127.0.0.1 GET www.dz.com/index/order/order2
+[ error ] [0]Fatal error: Call to undefined function lamg()[D:\wed\gongs\fang\dz\runtime\temp\6292dede5f7774db4a565dcaf5b02754.php:54]
+---------------------------------------------------------------
+
+[2020-11-16T10:20:51+08:00] 127.0.0.1 GET www.dz.com/index/my/msg
+[ error ] [0]Parse error: syntax error, unexpected '】' (T_STRING), expecting ',' or ';'[D:\wed\gongs\fang\dz\runtime\temp\78a1447fe315d5e0eaaec068cfe0661b.php:10]
+---------------------------------------------------------------
+
+[2020-11-16T10:20:56+08:00] 127.0.0.1 GET www.dz.com/index/ctrl/junior
+[ error ] [0]Parse error: syntax error, unexpected '】' (T_STRING), expecting ',' or ';'[D:\wed\gongs\fang\dz\runtime\temp\a07bbc5c9494069705b4c69cede79e35.php:2]
+---------------------------------------------------------------
+
+[2020-11-16T10:21:06+08:00] 127.0.0.1 GET www.dz.com/index/my/msg
+[ error ] [0]Parse error: syntax error, unexpected '】' (T_STRING), expecting ',' or ';'[D:\wed\gongs\fang\dz\runtime\temp\78a1447fe315d5e0eaaec068cfe0661b.php:10]
+---------------------------------------------------------------
+
+[2020-11-16T10:21:09+08:00] 127.0.0.1 GET www.dz.com/index/ctrl/junior
+[ error ] [0]Parse error: syntax error, unexpected '】' (T_STRING), expecting ',' or ';'[D:\wed\gongs\fang\dz\runtime\temp\a07bbc5c9494069705b4c69cede79e35.php:2]
+---------------------------------------------------------------
+
+[2020-11-16T10:22:10+08:00] 127.0.0.1 GET www.dz.com/index/ctrl/junior
+[ error ] [0]Parse error: syntax error, unexpected '没有数据' (T_STRING), expecting ')'[D:\wed\gongs\fang\dz\runtime\temp\a07bbc5c9494069705b4c69cede79e35.php:152]
+---------------------------------------------------------------
+
+[2020-11-16T10:25:17+08:00] 127.0.0.1 GET www.dz.com/index/ctrl/junior
+[ error ] [0]Parse error: syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING)[D:\wed\gongs\fang\dz\runtime\temp\a07bbc5c9494069705b4c69cede79e35.php:152]
+---------------------------------------------------------------
+
+[2020-11-16T10:28:43+08:00] 127.0.0.1 GET www.dz.com/index/ctrl/junior
+[ error ] [0]Parse error: syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING)[D:\wed\gongs\fang\dz\runtime\temp\a07bbc5c9494069705b4c69cede79e35.php:152]
+---------------------------------------------------------------
+
+[2020-11-16T10:29:38+08:00] 127.0.0.1 GET www.dz.com/index/my/msg
+[ error ] [0]Parse error: syntax error, unexpected '】' (T_STRING), expecting ',' or ';'[D:\wed\gongs\fang\dz\runtime\temp\78a1447fe315d5e0eaaec068cfe0661b.php:10]
+---------------------------------------------------------------
+
+[2020-11-16T10:30:52+08:00] 127.0.0.1 GET www.dz.com/index/my/msg
+[ error ] [0]Parse error: syntax error, unexpected ''上拉刷新"); ?></span></di' (T_ENCAPSED_AND_WHITESPACE)[D:\wed\gongs\fang\dz\runtime\temp\78a1447fe315d5e0eaaec068cfe0661b.php:10]
+---------------------------------------------------------------
+
+[2020-11-16T10:34:28+08:00] 127.0.0.1 GET www.dz.com/index/ctrl/deposit_admin
+[ error ] [0]Parse error: syntax error, unexpected '至' (T_STRING), expecting ')'[D:\wed\gongs\fang\dz\runtime\temp\e5b0c8b8672ef6a71bb3b622a715addc.php:52]
+---------------------------------------------------------------
+
+[2020-11-16T10:34:49+08:00] 127.0.0.1 GET www.dz.com/index/ctrl/deposit_admin
+[ error ] [0]Parse error: syntax error, unexpected '至' (T_STRING), expecting ')'[D:\wed\gongs\fang\dz\runtime\temp\e5b0c8b8672ef6a71bb3b622a715addc.php:52]
+---------------------------------------------------------------
+
+[2020-11-16T10:34:57+08:00] 127.0.0.1 GET www.dz.com/index/ctrl/deposit_admin
+[ error ] [0]Parse error: syntax error, unexpected '至' (T_STRING), expecting ')'[D:\wed\gongs\fang\dz\runtime\temp\e5b0c8b8672ef6a71bb3b622a715addc.php:52]
+---------------------------------------------------------------
+
+[2020-11-16T10:35:05+08:00] 127.0.0.1 GET www.dz.com/index/ctrl/deposit_admin
+[ error ] [0]Parse error: syntax error, unexpected '至' (T_STRING), expecting ')'[D:\wed\gongs\fang\dz\runtime\temp\e5b0c8b8672ef6a71bb3b622a715addc.php:52]
+---------------------------------------------------------------
+
+[2020-11-16T10:36:02+08:00] 127.0.0.1 GET www.dz.com/index/ctrl/deposit_admin
+[ error ] [0]Parse error: syntax error, unexpected '上拉刷新' (T_STRING), expecting ')'[D:\wed\gongs\fang\dz\runtime\temp\e5b0c8b8672ef6a71bb3b622a715addc.php:62]
+---------------------------------------------------------------
+
+[2020-11-16T10:36:34+08:00] 127.0.0.1 GET www.dz.com/index/ctrl/deposit_admin
+[ error ] [0]Parse error: syntax error, unexpected ';', expecting ')'[D:\wed\gongs\fang\dz\runtime\temp\e5b0c8b8672ef6a71bb3b622a715addc.php:62]
+---------------------------------------------------------------
+
+[2020-11-16T10:38:18+08:00] 127.0.0.1 GET www.dz.com/index/ctrl/deposit_admin
+[ error ] [0]Parse error: syntax error, unexpected ';', expecting ')'[D:\wed\gongs\fang\dz\runtime\temp\e5b0c8b8672ef6a71bb3b622a715addc.php:62]
+---------------------------------------------------------------
+
+[2020-11-16T10:39:03+08:00] 127.0.0.1 GET www.dz.com/index/ctrl/deposit_admin
+[ error ] [0]Parse error: syntax error, unexpected ';', expecting ')'[D:\wed\gongs\fang\dz\runtime\temp\e5b0c8b8672ef6a71bb3b622a715addc.php:62]
+---------------------------------------------------------------
+
+[2020-11-16T10:39:33+08:00] 127.0.0.1 GET www.dz.com/index/ctrl/deposit_admin
+[ error ] [0]Parse error: syntax error, unexpected ';', expecting ')'[D:\wed\gongs\fang\dz\runtime\temp\e5b0c8b8672ef6a71bb3b622a715addc.php:62]
+---------------------------------------------------------------
+
+[2020-11-16T10:40:11+08:00] 127.0.0.1 GET www.dz.com/index/ctrl/deposit_admin
+[ error ] [0]Parse error: syntax error, unexpected ';', expecting ')'[D:\wed\gongs\fang\dz\runtime\temp\e5b0c8b8672ef6a71bb3b622a715addc.php:62]
+---------------------------------------------------------------
+
+[2020-11-16T10:40:36+08:00] 127.0.0.1 GET www.dz.com/index/ctrl/deposit_admin
+[ error ] [0]Parse error: syntax error, unexpected ';', expecting ')'[D:\wed\gongs\fang\dz\runtime\temp\e5b0c8b8672ef6a71bb3b622a715addc.php:62]
+---------------------------------------------------------------
+
+[2020-11-16T10:40:38+08:00] 127.0.0.1 GET www.dz.com/index/ctrl/deposit_admin
+[ error ] [0]Parse error: syntax error, unexpected ';', expecting ')'[D:\wed\gongs\fang\dz\runtime\temp\e5b0c8b8672ef6a71bb3b622a715addc.php:62]
+---------------------------------------------------------------
+
+[2020-11-16T10:42:31+08:00] 127.0.0.1 GET www.dz.com/index/my/index/my/index
+[ error ] [0]Parse error: syntax error, unexpected '/'[D:\wed\gongs\fang\dz\runtime\temp\281ba60ae9f6b80a3fc9cf890161d986.php:2]
+---------------------------------------------------------------
+
+[2020-11-16T10:43:53+08:00] 127.0.0.1 GET www.dz.com/index/my/index/my/index
+[ error ] [0]Parse error: syntax error, unexpected ';', expecting ')'[D:\wed\gongs\fang\dz\runtime\temp\281ba60ae9f6b80a3fc9cf890161d986.php:18]
+---------------------------------------------------------------
+
+[2020-11-16T11:27:29+08:00] 127.0.0.1 GET www.dz.com/admin/users/index2.html?spm=m-62-63-96
+[ error ] [8]Undefined index: authorize[D:\wed\gongs\fang\dz\application\admin\controller\Users.php:157]
+---------------------------------------------------------------
+
+[2020-11-30T11:30:44+08:00] 127.0.0.1 GET www.dz.com/admin/users/index.html?spm=m-62-63-64
+[ error ] [0]template not exists:D:\wed\gongs\fang\dz\application\admin\view\users\index.html[D:\wed\gongs\fang\dz\thinkphp\library\think\view\driver\Think.php:86]
+---------------------------------------------------------------
+
+[2020-12-03T19:09:23+08:00] 127.0.0.1 GET www.dz.com/admin/index/clearruntime.html?spm=m-124-125-127&open_type=modal
+[ error ] [0]Fatal error: Class 'library\command\Task' not found[D:\wed\gongs\fang\dz\vendor\zoujingli\think-library\src\command\task\Stop.php:26]
